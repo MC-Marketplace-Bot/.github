@@ -26,9 +26,11 @@ The perfect bot to use the Minecraft Marketplace from Discord!
 - **/botinfo** - Information and statistics on the marketplace bot!
 
 
-# [Add the bot](https://discord.com/oauth2/authorize?client_id=1139005810920394783&permissions=378880)
+# [Add the bot!](https://discord.com/oauth2/authorize?client_id=1139005810920394783&permissions=378880)
 
-# [Support Discord server](https://discord.com/invite/rQEcMZ6SMQ)
+<a href="https://discord.com/invite/rQEcMZ6SMQ">
+         <img alt="Support Discord server" src="https://discord.com/api/guilds/1110678113534361714/widget.png?style=banner2">
+</a>
 
 # Common Q&A questions
 
