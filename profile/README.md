@@ -26,11 +26,16 @@ The perfect bot to use the Minecraft Marketplace from Discord!
 - **/botinfo** - Information and statistics on the marketplace bot!
 
 
-# [Add the bot!](https://discord.com/oauth2/authorize?client_id=1139005810920394783&permissions=378880)
+# [Click here to add the bot!](https://discord.com/oauth2/authorize?client_id=1139005810920394783&permissions=378880)
 
 <a href="https://discord.com/invite/rQEcMZ6SMQ">
          <img alt="Support Discord server" src="https://discord.com/api/guilds/1110678113534361714/widget.png?style=banner2">
 </a>
+
+# Contact us
+
+- **Determinated** – [determinated@marketplacebot.net](mailto:determinated@marketplacebot.net)
+- **OpTicSpiderAnt** – [opticspiderant@marketplacebot.net](mailto:opticspiderant@marketplacebot.net)
 
 # Common Q&A questions
 
