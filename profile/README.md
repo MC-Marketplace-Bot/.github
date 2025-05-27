@@ -35,7 +35,6 @@ The perfect bot to use the Minecraft Marketplace from Discord!
 # Contact us
 
 - **Determinated** – [determinated@marketplacebot.net](mailto:determinated@marketplacebot.net)
-- **OpTicSpiderAnt** – [opticspiderant@marketplacebot.net](mailto:opticspiderant@marketplacebot.net)
 
 # Common Q&A questions
 
