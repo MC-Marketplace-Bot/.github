@@ -1,4 +1,7 @@
 # MC Marketplace bot
+
+> **Status Update:** As of November 2025, Marketplace Bot has been shut down due to operational costs. We are currently offline and not processing commands. We hope to return in the future with a more sustainable version. Thank you for your support!
+
 We are not affiliated with Mojang AB ©.
 
 The perfect bot to use the Minecraft Marketplace from Discord!
